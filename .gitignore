@@ -1,0 +1,16 @@
+target/
+project/target/
+project/project/
+.idea/
+.classpath
+.project
+.settings/
+.bsp/
+lib_managed/
+src_managed/
+.history/
+.cache/
+.DS_Store
+metals.sbt
+.metals/
+.bloop/
